@@ -57,10 +57,10 @@ boolean doWeightLearning = true; //Set to false to avoid weight learning
 
 // Setting the data path
 // Change these to change the blocking parameter K
-def base_dir = 'data'+java.io.File.separator+'drugtarget'+java.io.File.separator;
+def base_dir = 'data'+java.io.File.separator;
 def triad_similarity_dir = base_dir+'Similarities_K5_0.5'+java.io.File.separator;
 def tetrad_similarity_dir = base_dir+'Similarities_K15_0.5'+java.io.File.separator;
-def interactions_dir = base_dir+'CrossValidation'+java.io.File.separator;
+def interactions_dir = base_dir+'NewInteractions'+java.io.File.separator;
 
 System.out.println "Triad Similarity Folder: "+triad_similarity_dir;
 System.out.println "Tetrad Similarity Folder: "+tetrad_similarity_dir;

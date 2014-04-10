@@ -7,7 +7,7 @@ These files contain implementation of experimental evaluation in the following p
   year={2014},
   }
 
-To run the files you need to install Probabilistic Soft Logic (PSL) first. Please read the instructions here for details:
+To run the files you need to install Probabilistic Soft Logic (PSL) prerequisites first. Please read the instructions here for details:
 https://github.com/linqs/psl/wiki
 
 You can then run the first experiment using 'run.sh'. Please change that file to run the other experiments.
