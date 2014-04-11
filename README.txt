@@ -12,4 +12,6 @@ https://github.com/linqs/psl/wiki
 
 You can then run the first experiment using 'run.sh'. Please change that file to run the other experiments.
 
+PSL models are located here: /src/main/java/edu/umd/cs/psl/fakhraei_tcbb2014
+
 Perlman's method is implemented in matlab and is located here: /src/main/matlab/Perlmans_method
