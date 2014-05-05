@@ -15,3 +15,6 @@ You can then run the first experiment using 'run.sh'. Please change that file to
 PSL models are located here: /src/main/java/edu/umd/cs/psl/fakhraei_tcbb2014
 
 Perlman's method is implemented in matlab and is located here: /src/main/matlab/Perlmans_method
+
+A copy of the paper can be found here:
+http://linqs.cs.umd.edu/basilic/web/Publications/2014/fakhraei:tcbb14/
