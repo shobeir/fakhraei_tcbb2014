@@ -1,12 +1,12 @@
 These files contain implementation of experimental evaluation in the following paper:
-
-  @article{fakharei2014network,
-  title={Network-Based Drug-Target Interaction Prediction with Probabilistic Soft Logic},
-  author={Fakhraei, Shobeir and Huang, Bert and Raschid, Louiqa and Getoor, Lise},
-  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
-  year={2014},
-  }
-
+  
+  @article{fakharei2014network,  
+  title={Network-Based Drug-Target Interaction Prediction with Probabilistic Soft Logic},  
+  author={Fakhraei, Shobeir and Huang, Bert and Raschid, Louiqa and Getoor, Lise},  
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},  
+  year={2014},  
+  }  
+  
 To run the files you need to install Probabilistic Soft Logic (PSL) prerequisites first. Please read the instructions here for details:
 https://github.com/linqs/psl/wiki
 
