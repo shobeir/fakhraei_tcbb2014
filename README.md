@@ -19,4 +19,4 @@ Perlman's method is implemented in matlab and is located here: /src/main/matlab/
 The full dataset in .mat format is located here: /src/main/matlab/Perlmans_method/data
 
 A copy of the paper can be found here:
-https://linqspub.soe.ucsc.edu/basilic/web/Publications/2014/fakhraei:tcbb14/
+https://shobeir.github.io/papers/fakhraei_tcbb_2014.pdf
